@@ -1,0 +1,5 @@
+{
+    "require": {
+        "idleberg/wordpress-vite-assets": "^0.5.0"
+    }
+}
