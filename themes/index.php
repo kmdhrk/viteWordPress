@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <div id="app"></div>aaaaaa
+  <div id="app"></div>aaaaaaaaaaaaaaaa
   <script type="module" src="http://localhost:3000/src/main.ts"></script>
 
 </body>
